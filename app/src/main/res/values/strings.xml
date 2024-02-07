@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">team47-project1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">College Scheduler</string>
+    <string name="nav_header_subtitle">Name</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_name">Enter Your Name to get Started</string>
+    <string name="menu_home">Todos</string>
+    <string name="menu_gallery">Classes</string>
+    <string name="menu_slideshow">Assignments</string>
+    <string name="menu_exam">Exams</string>
+    <string name="menu_input">Add Edit Delete</string>
+    <string-array name="type_array">
+        <item>Name</item>
+        <item>Class</item>
+        <item>Assignment</item>
+        <item>Exam</item>
+    </string-array>
+    <string-array name="sortbyarray">
+        <item>Sort By</item>
+        <item>Course Name</item>
+        <item>Due Date</item>
+    </string-array>
+</resources>
